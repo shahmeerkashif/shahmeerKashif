@@ -1,25 +1,25 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=✨+Welcome+to+my+Digital+Garden!+✨;Hi+There!+👋;I'm+Shahmeer+Kashif!;+A+Creative+web+Developer+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=✨+Welcome+to+my+Digital+Garden!+✨;Hi+There!+👋;I'm+Shahmeer+Kashif!;+A+Creative+MERN Stack+web+App+Developer+💻" />
 </div>
 
 
 <div align="center">
   <!-- Dynamic Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=mooosakhan&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&base=2900" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shahmeerkashif&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&base=2900" alt="Profile Views" />
 </div>
 
 
 <h3 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="20">
-  A Passionate Frontend Developer from Pakistan 
+  A Passionate MERN Stack Developer from Pakistan 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
 <p align="center">
   <a href="https://github.com/aoaydin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahmeerkashif&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
     <br/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mooosakhan&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahmeerkashif&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
   <picture>
 
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=shahmeerkashif&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
  
@@ -69,7 +69,7 @@
     <summary style="font-size: 2.5em;"><b>✨ About Me</b></summary>
     <br>
     <p style="font-size: 1.5em;"> <!-- Adjusted font size -->
-      👋 Hey there! I'm rebuilding my GitHub presence after my previous profile was lost. With over a year of experience and a passion for creating amazing web experiences, I'm here to contribute and grow with the community! 
+      👋 Hey there! I'm rebuilding my GitHub presence after my previous profile was lost. With over a year of experience and a passion for creating amazing web & App experiences, I'm here to contribute and grow with the community! 
     </p>
   </details>
 
@@ -78,9 +78,9 @@
 
 <!--
 ### ⚡ Building Amazing Things
-- 🎯 *Currently Crafting*: AI-Powered Exam Scheduler (revolutionizing how teachers plan)
+- 🎯 *Currently Crafting*: POS Point Of Sales (revolutionizing how teachers plan)
 - 🚀 *Exploring*: Three.js & GSAP for mind-bending web experiences
-- 🌟 *See My Work*: [Portfolio](https://mooosakhan.github.io/Portfolio.me/) 
+- 🌟 *See My Work*: [Portfolio](https://shahmeerkashif.github.io/personal-profile/) 
 - 🔥 *Tech Arsenal*: React, Node.js, Three.js, and a pinch of magic ✨
 -->
 
@@ -96,16 +96,10 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/moosa-khan-ab762b299">
+  <a href="https://www.linkedin.com/in/shahmeer-shahmeer-517252342/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/moosakhan311">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:23-ai-13@students.duet.edu.pk">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://wa.me/923314027135">
+  <a href="https://wa.me/923318324360">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
@@ -143,25 +137,17 @@
 
 </div>
 <!--<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahmeerkashif&show_icons=true" />
 </picture>-->
  <!--
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=mooosakhan&theme=radical"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=shahmeerkashif&theme=radical"
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=mooosakhan&theme=default"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=shahmeerkashif&theme=default"
       alt="GitHub Streak"
     /></picture></div>-->
     <!-- For light theme -->
