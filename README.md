@@ -1,23 +1,23 @@
 <!-- Wavy Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=🎮%20Shahmeer%20Kashif%20%20%20&fontAlign=50&fontAlignY=40&color=gradient&fontSize=60&desc=VIP%20Gaming%20Developer%20👑&descAlignY=65&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=💻%20Muhammad%20Shahmeer%20&fontAlign=50&fontAlignY=40&color=gradient&fontSize=60&desc=MERN%20Stack%20Web%20%26%20App%20Developer%20🚀&descAlignY=65&descAlign=50" width="100%"/>
 
 <div align="center">
   
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&duration=4000&color=00F5FF&center=true&vCenter=true&width=800&height=70&lines=⚡+Welcome+to+the+VIP+Arena!;🎮+Full+Stack+MERN+Developer;🔥+3D+Animation+Lover;🚀+Future+Game+Changer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&duration=4000&color=00F5FF&center=true&vCenter=true&width=800&height=70&lines=⚡+Welcome+to+My+Profile!;💻+MERN+Stack+Web+%26+App+Developer;🔥+UI%2FUX+Design+Lover;🚀+Future+Tech+Innovator" />
 
 <!-- Animated Profile Counter -->
-<img src="https://komarev.com/ghpvc/?username=shahmeerkashif&style=for-the-badge&color=ff00ff&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=shahmeerkashif&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-<h2 align="center">👾 Shahmeer’s Gaming Arena 👾</h2>
+<h2 align="center">💼 Muhammad Shahmeer’s Dev Space 💼</h2>
 
 <div align="center">
-  <img src="https://i.gifer.com/7Im6.gif" width="200" height="200"/>
   <img src="https://i.gifer.com/1amw.gif" width="200" height="200"/>
+  <img src="https://i.gifer.com/7Im6.gif" width="200" height="200"/>
   <img src="https://i.gifer.com/origin/ba/ba4d4fd9bb276c3ad0f3c6f4915f2a5f.gif" width="200" height="200"/>
 </div>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
   
-![Tech](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,threejs,js,ts,py,cpp,java)
+![Tech](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,reactnative,firebase,bootstrap,framer,html,css)
 
 </div>
 
@@ -48,10 +48,10 @@
   <summary>✨ Click to Expand</summary>
   <br>
   <p align="center">
-   👑 VIP Developer from Pakistan <br>
-   🎯 Passion: 3D Web + MERN + Gaming <br>
-   🔥 Exploring: Three.js, GSAP Animations <br>
-   🚀 Goal: Build next-level Web & Gaming Experiences <br>
+   👨‍💻 MERN Stack Web & App Developer from Pakistan <br>
+   💡 Passionate about Frontend UI, Animation & Smooth UX <br>
+   🧠 Exploring: React Native, Firebase, and Modern Web Tools <br>
+   🚀 Goal: To build powerful, beautiful, and scalable apps <br>
   </p>
 </details>
 
@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahmeer-shahmeer-517252342/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://wa.me/923318324360"><img src="https://img.shields.io/badge/WhatsApp-%25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://wa.me/923318324360"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
